@@ -1,6 +1,6 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/Kingjux/Venocyber-md.git /root/Kingjux
+RUN git clone https://github.com/malvinking/Speed-md.git /root/Kingjux
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
