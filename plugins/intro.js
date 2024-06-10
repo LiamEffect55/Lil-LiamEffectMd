@@ -18,15 +18,15 @@
 //                                                                                            //
 //════════════════════════════════════════════════════════════════════════════════════════════//
 *                                                                 
-  * @project_name : Venocyber-md
-   * @author : Venocyber Tech.
-   * @youtube : https://www.youtube.com/@JASTINMTEWA-vn9pl
-   * @description : Venocyber-Md ,A Multi-functional whatsapp user bot.
+  * @project_name : Speed-md
+   * @author : Malvin King.
+   * @youtube : https://www.youtube.com/@speedtechi
+   * @description : Speed-Md ,A Multi-functional whatsapp user bot.
    * @version 2.5.0
 *
 * 
-   * Created By Venocyber Tech.
-   * © 2024 Venocyber-Md.
+   * Created By Speed Tech.
+   * © 2024 Speed-Md.
 
 
 */
@@ -50,22 +50,22 @@
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/Kingjux/Venocyber-md' // Source URL
-const number = '255625774543'
-var name = ' VENOCYBER 𝕋𝔼ℂℍ'
+var surl = 'https://github.com/Kingjux/Speed-md' // Source URL
+const number = '263780934873'
+var name = ' SPEED 𝕋𝔼ℂℍ'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg'
+var image = 'https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 VENOCYBER 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
-│ Name      : VENOCYBER 
-│ Place       : NJOMBE, TANZANIA
+│       「 SPEED 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
+│ Name      : MALVIN KING 
+│ Place       : KWEKWE, ZIMBABWE 🇿🇼 
 │ Gender    :  𝐌𝐀𝐋𝐄
-│ Age          : 20
+│ Age          : 19
 │ education : 𝐁𝐒c IT 
 │ good vibes : 𝐒𝐓𝐀𝐘 𝐂𝐋𝐀𝐌
-│ Phone     : wa.me/255625774543
-│ Youtube   : youtube.com/@JASTINMTEWA-vn9pl
-│ GitHub    : https://github.com/Kingjux 
+│ Phone     : wa.me/263780934873
+│ Youtube   : https://www.youtube.com/@speedtechi
+│ GitHub    : https://github.com/malvinking 
 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
@@ -76,7 +76,7 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
  //---------------------------------------------------------------------------
  smd({
              pattern: "intro",
-             alias: ["venocyber","veno"],
+             alias: ["speed","spe"],
              desc: "Show intro of user",
              category: "fun",
              filename: __filename,
