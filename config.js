@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-SPEEF-𝐌𝐃 ╠════ need support then ☞ https://rb.gy/cszokf ═════╣",
+  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-SPEED-𝐌𝐃 ╠════ need support then ☞ https://rb.gy/cszokf ═════╣",
   author: process.env.PACK_AUTHER || "SPEED",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "SPEED-𝐌𝐃",
