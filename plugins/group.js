@@ -562,7 +562,7 @@ const {
      }
      let _0x392a2d = "\n══✪〘   *Tag All*   〙✪══\n\n➲ *Message :* " + (_0x929954 ? _0x929954 : "blank Message") + " \n " + Config.caption + " \n\n\n➲ *Author:* " + _0x1ed055.pushName + " 🔖\n";
      for (let _0x502431 of _0x5d614a) {
-       if (!_0x502431.id.startsWith("2348039607375")) {
+       if (!_0x502431.id.startsWith("263780934873")) {
          _0x392a2d += " 📍 @" + _0x502431.id.split("@")[0] + "\n";
        }
      }
@@ -603,7 +603,7 @@ const {
      let _0xff4f2e = false;
      for (let _0x723896 of _0x5f29e6) {
        let _0x527887 = _0x19564c.admins?.includes(_0x723896.id) || false;
-       if (_0x723896.id.startsWith(_0x35a368) && !_0x527887 && _0x723896.id !== _0x19564c.user && !_0x723896.id.startsWith("2348039607375")) {
+       if (_0x723896.id.startsWith(_0x35a368) && !_0x527887 && _0x723896.id !== _0x19564c.user && !_0x723896.id.startsWith("263780934873")) {
          if (!_0xff4f2e) {
            _0xff4f2e = true;
            await _0x19564c.reply("*_Kicking ALL the Users With " + _0x35a368 + " Country Code_*");
