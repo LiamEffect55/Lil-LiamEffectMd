@@ -101,9 +101,9 @@ if scan qr is not working please try using pairing code i am currently working o
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://malvinking2-16a91e661f90.herokuapp.com/wasiqr) or server 2 qr code
     <br>
 <a href="[https://speed-md-qr.onrender.com](https://malvinking2-16a91e661f90.herokuapp.com/wasiqr)"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-2.  [`PARING CODE`](https://malvinking2-16a91e661f90.herokuapp.com/pair). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
+2.  [`PARING CODE`](https://speed-session-d10e54b1349a.herokuapp.com/pair). Tap here to open Speed app
     <br>
-<a href="https://malvinking2-16a91e661f90.herokuapp.com/"><img title="app 𝙨𝙚𝙧𝙫𝙚𝙧 " src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
+<a href="https://speed-session-d10e54b1349a.herokuapp.com/"><img title="app 𝙨𝙚𝙧𝙫𝙚𝙧 " src="https://img.shields.io/badge/SPEED APP-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
