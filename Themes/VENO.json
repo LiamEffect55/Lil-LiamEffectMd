@@ -1,6 +1,6 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Speed_Tech",
+    "AUTHOR": "Malvin King",
     "theme": "Speed-Md",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
@@ -13,7 +13,7 @@
         "global": {      
             "botName": "Speed-md",
             "body": "whatsapp User Bot", 
-            "greet2" : "Thanks To Venocyber Tech",
+            "greet2" : "Thanks To Malvin King",
             "pic1": "https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg", 
             "greet" : "Believe it",
             "dotbody" : "I decided being Pirate King.",
