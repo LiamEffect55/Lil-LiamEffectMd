@@ -50,7 +50,7 @@
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/Kingjux/Speed-md' // Source URL
+var surl = 'https://github.com/malvinking/Speed-md' // Source URL
 const number = '263780934873'
 var name = ' SPEED 𝕋𝔼ℂℍ'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
