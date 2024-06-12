@@ -170,17 +170,17 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
   
  * Deploy on Heroku Video ⇓
  <p align="left">
-<a href="https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC"><img align="center" src="https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/YoxxlrtAFXI?si=sAG4qsyToxRqdRBn"><img align="center" src="https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 * don't have heroku account? ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ Video ⇓
  <p align="left">
-<a href="https://youtu.be/ZcvbJNg3tHU?si=zDml6TGO1dAmYAX8"><img align="center" src="https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="110" width="200" /></a>
+<a href="https://youtu.be/hmor8RCUngw?si=Rxy8pfc0jooOwpyU"><img align="center" src="https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="110" width="200" /></a>
    
 * ☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆ ᴠɪsɪᴛ ʜᴇʀᴇ ⇓
 <p align="left">
 <a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+Speed+md;🙏;🙏+✍🏾;🥰)](https://github.com/malvinkin)
+[![Speed tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+Speed+md;🙏;🙏+✍🏾;🥰)](https://github.com/malvinkin)
 
 <h1>💗</h1> 
 <b>Thanks For</b> -
