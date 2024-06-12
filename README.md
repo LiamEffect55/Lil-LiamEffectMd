@@ -170,7 +170,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
   
  * Deploy on Heroku Video ⇓
  <p align="left">
-<a href="https://youtu.be/YoxxlrtAFXI?si=sAG4qsyToxRqdRBn"><img align="center" src="https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/YoxxlrtAFXI?si=Djk2qUdzhacnd7hh"><img align="center" src="https://telegra.ph/file/9d1785cfcfaf5603d0adc.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 * don't have heroku account? ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ Video ⇓
  <p align="left">
