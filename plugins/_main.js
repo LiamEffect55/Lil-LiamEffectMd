@@ -126,7 +126,7 @@ smd({
   pattern: "chat",
   desc: "chat with an AI",
   category: "ai",
-  use: "<Hii, venocyber-tech>",
+  use: "<Hii, speed-md>",
   filename: __filename
 }, async (_0x1c0160, _0x482db1) => {
   try {
