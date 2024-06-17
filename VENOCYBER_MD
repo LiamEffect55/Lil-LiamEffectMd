@@ -1,7 +1,7 @@
 FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/malvinking/Speed-md/root/Kingjux
+RUN git clone https://github.com/LiamEffect55/Lil-LiamEffectMd/root/Kingjux
 WORKDIR /root/Kingjux
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
-# POWERD BY SPEED TECH
+# POWERD BY LIL-LIAMEFFECT TECH
