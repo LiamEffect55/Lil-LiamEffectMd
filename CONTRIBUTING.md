@@ -5,6 +5,6 @@
 -----------------------------------------------------------------
 
 
-# SPEED MD
+# LIL-LIAMEFFECT MD
 
-You can send anything via VODACOM Mpesa number 263780934873 <b> MALVIN KING BANDA </b>
+You can send anything via VODACOM Mpesa number 256707089621 <b> LIL-LIAMEFFECT </b>
