@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘LIL-LIAMEFFECT-𝐌𝐃 ╠════ need support then ☞ https://wa.me//256707089621 ═════╣",
+  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-LIL-LIAMEFFECT-𝐌𝐃 ╠════ need support then ☞ https://wa.me//256707089621 ═════╣",
   author: process.env.PACK_AUTHER || "LIAMEFFECT",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "Lil-LiamEffect 𝐌𝐃",
