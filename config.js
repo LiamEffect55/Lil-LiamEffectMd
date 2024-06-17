@@ -13,13 +13,13 @@ global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dar es salaam";
-global.github = process.env.GITHUB || "https://github.com/malvinking/Speed-md";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z";
+global.github = process.env.GITHUB || "https://github.com/LiamEffect55/Lil-LiamEffectMd";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VahZprsEawduA2d6251t";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/5b5d780eac1422ed5e14e.jpg";
-global.devs = "263780934873";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/1e4058f9ec61ed3b0e326.jpg";
+global.devs = "256707089621";
 global.sudo = process.env.SUDO || "263780934873";
-global.owner = process.env.OWNER_NUMBER || "263780934873";
+global.owner = process.env.OWNER_NUMBER || "256707089621";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -38,7 +38,7 @@ global.save_status_from = process.env.SAVE_STATUS_FROM || "";
 global.read_status_from = process.env.READ_STATUS_FROM || "";
 
 global.api_smd = "https://api-smd-1.vercel.app";
-global.scan = "https://wa.me//263780934873";
+global.scan = "https://wa.me//256707089621";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-SPEED-𝐌𝐃 ╠════ need support then ☞ https://wa.me//263780934873 ═════╣",
-  author: process.env.PACK_AUTHER || "SPEED",
+  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘LIL-LIAMEFFECT-𝐌𝐃 ╠════ need support then ☞ https://wa.me//256707089621 ═════╣",
+  author: process.env.PACK_AUTHER || "LIAMEFFECT",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "SPEED-𝐌𝐃",
-  ownername: process.env.OWNER_NAME || "MALVIN",
+  botname: process.env.BOT_NAME || "Lil-LiamEffect 𝐌𝐃",
+  ownername: process.env.OWNER_NAME || "Liam",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "SPEED").toUpperCase(),
+  LANG: (process.env.THEME || "LIAMEFFECT").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
