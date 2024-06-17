@@ -2,7 +2,7 @@ const bot = require(__dirname + '/lib/amd')
 const { VERSION } = require(__dirname + '/config')
 
 const start = async () => {
-    Debug.info(`Starting speed ${VERSION}`)
+    Debug.info(`Starting Lil-LiamEffect ${VERSION}`)
   try {
     await bot.init()
     //bot.logger.info('⏳ Database syncing!')
@@ -15,5 +15,5 @@ const start = async () => {
 }
 start();
 /**
-SPEED TECH WHATSAPPP BOT
+LIAMEFFECT TECH WHATSAPPP BOT
 **/
