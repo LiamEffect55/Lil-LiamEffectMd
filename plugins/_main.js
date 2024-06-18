@@ -689,7 +689,7 @@ smd({
             if (_0x13a11c.toLowerCase().startsWith("reply")) {
               _0x2ecd2a.howmanyreply += 1;
               const _0x5a2204 = _0x2acf30.text.indexOf(",");
-              let _0x3f6b5Msg_Id (LIL-LIAMEFFECT-MD• ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" + _0x2ecd2a.reciever.split("@")[0] + "_*\n*_Msg_Id: " + _0x2ecd2a.id + "_*\n\n*Message:* " + _0x2acf30.text.slice(_0x5a2204 + 1).trim() + "\n\n\n\n" + Config.caption;
+              let _0x3f6b59 = "*LIL-LIAMEFFECT MD• ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" + _0x2ecd2a.reciever.split("@")[0] + "_*\n*_Msg_Id: " + _0x2ecd2a.id + "_*\n\n*Message:* " + _0x2acf30.text.slice(_0x5a2204 + 1).trim() + "\n\n\n\n" + Config.caption;
               if (_0x2ecd2a.howmanyreply >= 2) {
                 isAnnonyMsgAlive = isAnnonyMsgAlive.replace("," + _0x2acf30.sender, "");
               }
