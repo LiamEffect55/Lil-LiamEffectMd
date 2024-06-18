@@ -98,12 +98,12 @@ hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Deployment Methods
 if scan qr is not working please try using pairing code i am currently working on it
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://liameffect-session-d79f5b5d06d4.herokuapp.com/wasiqr) or server 2 qr code
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://liameffect-sessions-e21ebe77f767.herokuapp.com/wasiqr) or server 2 qr code
     <br>
-<a href="[https://lil LiamEffect-md-qr.onrender.com](https://LiamEffect55-16a91e661f90.herokuapp.com/wasiqr)"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-2.  [`PARING CODE`](https://liameffect-session-d79f5b5d06d4.herokuapp.com/pair). Tap here to open lil LiamEffect app
+<a href="[https://lil LiamEffect-md-qr.onrender.com](https://liameffect-sessions-e21ebe77f767.herokuapp.com/wasiqr)"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+2.  [`PARING CODE`](https://liameffect-sessions-e21ebe77f767.herokuapp.com/pair). Tap here to open lil LiamEffect app
     <br>
-<a href="https://https://liameffect-session-d79f5b5d06d4.herokuapp.com/"><img title="app 𝙨𝙚𝙧𝙫𝙚𝙧 " src="https://img.shields.io/badge/LIL LIAM EFFECT APP-h?color=green&style=for-the-badge&logo=msi"></a>
+<a href="https://liameffect-sessions-e21ebe77f767.herokuapp.com/"><img title="app 𝙨𝙚𝙧𝙫𝙚𝙧 " src="https://img.shields.io/badge/LIL LIAM EFFECT APP-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
