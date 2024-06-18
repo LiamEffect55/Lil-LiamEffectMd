@@ -802,7 +802,7 @@ smd(
            const sticker = await getBuffer(fileUrl);
            await message.reply(
              sticker,
-             { packname: Config.packname, author: "Venocyber-Md" },
+             { packname: Config.packname, author: "Lil-LiamEffectMd" },
              "sticker"
            );
          } else {
