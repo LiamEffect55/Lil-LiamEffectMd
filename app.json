@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "LiamEffect",
+      "value": "Lil LiamEffect",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "LIAMEFFECT 𝐌𝐃"
+      "value": "LIL LIAMEFFECT 𝐌𝐃"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -102,12 +102,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "LiamEffect",
+      "value": "LilLiamEffect",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "LiamEffect",
+      "value": "LilLiamEffect",
       "required": false
     }
   },
